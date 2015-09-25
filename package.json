@@ -1,0 +1,24 @@
+{
+  "name": "react-native-pedometer",
+  "version": "0.0.1",
+  "main": "Pedometer.js",
+  "nativePackage": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.11.2"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/mathieudutour/react-native-pedometer.git"
+  },
+  "description": "A Pedometer module for React Native.",
+  "author": "Mathieu Dutour <mathieu@dutour.me>",
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "pedometer"
+  ]
+}
